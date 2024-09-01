@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2024-09-01T21:45:43.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="O9in-NX7Dvlx6RQT7PXd" version="24.6.4" type="device">
+  <diagram name="Page-1" id="w_hBNT83-TWYQBbXsDuK">
+    <mxGraphModel dx="1145" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37" y="145" width="790" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="269.5" as="sourcePoint" />
+            <mxPoint x="340" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="270" as="sourcePoint" />
+            <mxPoint x="640" y="270.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/8242/8242984.png;" vertex="1" parent="1">
+          <mxGeometry x="85" y="220" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-8" value="Extract CSV from a website" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="310" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-9" value="Clean and pull&amp;nbsp; 4 columns" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e.nodegoat.net/CMS/upload/guide-import_person_spreadsheet_excel.png;" vertex="1" parent="1">
+          <mxGeometry x="375" y="210" width="94.57" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/8242/8242984.png;" vertex="1" parent="1">
+          <mxGeometry x="695" y="210" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-13" value="Save output as a CSVV file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="300" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HepCauRXTXxl3NaQ9Fst-16" value="Orchestrate using pipeline with CRON Job&amp;nbsp;&lt;div&gt;for 12AM everyday&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
