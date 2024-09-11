@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "server": "142.93.36.182",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Kunda Kids",
+            "password": "kiueh@34!",
+            "username": "readkundakids",
+            "database": "kundakidsdb_v2"
+        }
+    ]
+}
